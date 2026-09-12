@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishnujeet0609
 - 👀 I’m interested in programming..
-- 🌱 I’m currently working as a full stack developer..
+- 🌱 I’m currently working as a Software engineer..
 - 💞️ I’m looking to collaborate on full stack projects ..
 - 📫 How to reach me .https://www.linkedin.com/in/vishnujeet-pandey-b659a7192/..
 
